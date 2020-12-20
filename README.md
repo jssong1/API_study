@@ -12,8 +12,8 @@
     2-2. 이클립스 세팅 (루나)  
           - 설치 완료 후 Eclipse.ini(eclipse 설치 경로에 존재)의 하단에  
           
-            (-vm  
-               C:\Program Files\Java\jdk1.8.0_221\bin\javaw.exe 추가)  
+            ( -vm  
+               C:\Program Files\Java\jdk1.8.0_221\bin\javaw.exe )  추가완료
 
     2-3. 스프링 설치 3.2.4  
     2-4. 톰캣 8 연동  
@@ -29,8 +29,9 @@
     + 연동 완료 및 데이터 조회 완료
  
  5. 스프링 환경 구축 VS 스프링부트 환경 구축 비교해보기
-    + 참고 블로그 https://ellune.tistory.com/38
-
+    + 참고 블로그 
+        + https://ellune.tistory.com/38
+        + https://buble2.tistory.com/19
 ----------------------------------
 ## 참고사항 )   
 - 기존 진행중인 프로젝트에 영향이 있을까봐 최대한 사용하던 버전을 이용함 
