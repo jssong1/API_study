@@ -1,8 +1,12 @@
-# comento
-1주차 [20.12.15 ~ 20.12.19]
+# 백엔드 API 사용 실습
+========================
+
+## 1주차 [20.12.15 ~ 20.12.19]
 
 1. Github 계정생성 (완료)
-  > 기존 계정 이용
+    
+    기존 계정 이용
+
 2. JDK/Tomcat/mybatis Eclipse설치  
 2.1. JDK : 8u_221 버전 (https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)  
   > 기존 1.8.0_111 사용  
