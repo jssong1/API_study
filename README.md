@@ -8,7 +8,7 @@
 
 2. JDK/Tomcat/mybatis Eclipse설치   
     + 2.1. JDK : 8u_221 버전 (https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)  
-        +기존 1.8.0_111 사용  
+        + 기존 1.8.0_111 사용  
     + 2.2. 이클립스 세팅 (루나)  
         + 설치 완료 후 Eclipse.ini(eclipse 설치 경로에 존재)의 하단에  
           
