@@ -1,0 +1,20 @@
+package com.devsong.dao;
+
+import java.util.List;
+
+import com.devsong.vo.MovieVO;
+
+@Repository
+public class MovieDAOImpl implements MovieDAO{
+
+	
+	@Inject
+	private SqlSession sqlSession;
+	@Override
+	public List<MovieVO> selectMovie() throws Exception {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+}

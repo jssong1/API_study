@@ -1,0 +1,6 @@
+package com.devsong.service;
+
+public interface MovieService {
+
+	public List<MovieVO> selectMovie() throws Exception;
+}

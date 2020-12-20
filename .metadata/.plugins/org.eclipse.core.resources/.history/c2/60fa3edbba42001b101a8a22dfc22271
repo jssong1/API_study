@@ -1,0 +1,5 @@
+package com.devsong.dao;
+public class MovieDAOImpl implements MovieDAO{
+
+	
+}

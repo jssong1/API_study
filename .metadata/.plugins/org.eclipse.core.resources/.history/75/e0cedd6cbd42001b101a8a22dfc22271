@@ -1,0 +1,5 @@
+package com.devsong.vo;
+
+public class MovieVO {
+
+}

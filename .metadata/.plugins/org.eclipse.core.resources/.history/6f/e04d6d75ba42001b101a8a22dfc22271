@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.devsong.dao;
+
+/**
+ * @author SSONG'S
+ *
+ */
+public interface MovieDAO {
+
+}

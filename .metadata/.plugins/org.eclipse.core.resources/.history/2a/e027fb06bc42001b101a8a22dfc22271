@@ -1,0 +1,22 @@
+package com.devsong.service;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.devsong.vo.MovieVO;
+
+@Service
+public class MovieServiceImpl implements MovieService{
+
+	@Inject
+	private movieDAO dao;
+	@Override
+	public List<MovieVO> selectMovie() throws Exception {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+
+}

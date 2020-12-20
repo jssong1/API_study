@@ -1,0 +1,9 @@
+package com.devsong.dao;
+public class MovieDAOImpl {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

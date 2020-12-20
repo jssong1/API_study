@@ -1,0 +1,7 @@
+package com.devsong.vo;
+
+public class MovieVO {
+	private String movie;
+	private String director;
+	private String types;
+}

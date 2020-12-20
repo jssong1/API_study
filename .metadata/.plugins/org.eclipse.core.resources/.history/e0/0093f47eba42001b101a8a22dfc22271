@@ -1,0 +1,6 @@
+package com.devsong.dao;
+
+
+public interface MovieDAO {
+	public List<MovieVO> selectMovie() throws Excption;
+}
