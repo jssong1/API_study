@@ -27,4 +27,16 @@ C:\Program Files\Java\jdk1.8.0_221\bin\javaw.exe 추가)
 
 
 
-Q. 왜    @Inject 에는 public이아닌   private 인지? 
+참고)   
+- 기존 진행중인 프로젝트에 영향이 있을까봐 최대한 사용하던 버전을 이용함 
+- 메이븐은 처음 사용으로 좀 더 알아보기 
+- Maven Repository 다른 로컬폴더로 변경하고 싶었지만 제대로 되지 않아 /.m2/repository 
+- 깃허브 브랜치 해결하기..
+
+굼금한 점)   
+- 왜    @Inject 에는 public이아닌   private 인지? 
+- 톰캣 8 버전으로 실행은 되는데 앞으로 과제에서도 괜찮을지?
+
+
+
+
