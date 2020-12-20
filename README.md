@@ -6,7 +6,7 @@
 1. Github 계정생성 (완료)
     + 기존 계정 이용
 
-2. JDK/Tomcat/mybatis Eclipse설치   
+ 2. JDK/Tomcat/mybatis Eclipse설치   
     2.1. JDK : 8u_221 버전 (https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)  
         + 기존 1.8.0_111 사용  
     2.2. 이클립스 세팅 (루나)  
@@ -21,14 +21,14 @@
         + pom.xml에서 스프링 5.2.12.RELEASE /메이븐 3.7.0/ jdk 1.8설정  
 
 
-3. mybatis 설치
+ 3. mybatis 설치
     + mariadb-10.3.27/ MySQL Workbench 8.0.22
     + 스키마, 테이블 생성 및 데이터 입력
  
-4.스프링, Mariadb, MyBatis 연동, 데이터 조회
+ 4. 스프링, Mariadb, MyBatis 연동, 데이터 조회
     + 연동 완료 및 데이터 조회 완료
  
-5. 스프링 환경 구축 VS 스프링부트 환경 구축 비교해보기
+ 5. 스프링 환경 구축 VS 스프링부트 환경 구축 비교해보기
 
 
 ----------------------------------
