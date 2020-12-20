@@ -11,15 +11,14 @@
         +기존 1.8.0_111 사용  
     + 2.2. 이클립스 세팅 (루나)  
         +설치 완료 후 Eclipse.ini(eclipse 설치 경로에 존재)의 하단에  
-    
-(-vm  
-C:\Program Files\Java\jdk1.8.0_221\bin\javaw.exe 추가)  
-    
+          
+            (-vm  
+               C:\Program Files\Java\jdk1.8.0_221\bin\javaw.exe 추가)  
 
     + 2.3. 스프링 설치 3.2.4  
     + 2.4 톰캣 8 연동  
     + 2.5  메이븐 설치(3.6.3) 및 이클립스 연동  
-        + pom.xml에서 스프링 5.2.12.RELEASE /메이븐 3.7.0/ jdk 1.8설정  
+    + pom.xml에서 스프링 5.2.12.RELEASE /메이븐 3.7.0/ jdk 1.8설정  
 
 
 3. mybatis 설치
